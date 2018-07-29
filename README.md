@@ -1,2 +1,2 @@
 # C-Kalk
-Matrix and set basic operation in c++. GUI implementated with Qt Designer.
+Matrix and set basic operationa in c++. GUI implementated with Qt Designer.
